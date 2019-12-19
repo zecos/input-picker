@@ -1,6 +1,6 @@
 {
   "name": "@zecos/input-picker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "`@zecos/input` material-ui input pickersversion",
   "author": "zecos",
   "license": "MIT",
