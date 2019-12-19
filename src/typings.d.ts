@@ -20,4 +20,3 @@ declare module "@zecos/input";
 declare module "@material-ui/core";
 declare module "@material-ui/pickers";
 declare module "@date-io/date-fns";
-

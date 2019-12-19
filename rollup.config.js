@@ -25,7 +25,7 @@ export default {
       sourcemap: true
     }
   ],
-  external: id => /react|material-ui|zecos\/input|date-fn/.test(id),
+  external: ["react", "@zecos/input", "@material-ui/core", "@date-io/date-fns"],
   plugins: [
     external(),
     postcss({
