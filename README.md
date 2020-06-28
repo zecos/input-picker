@@ -1,3 +1,5 @@
+# Deprecation Notice: All zecos libraries have been merged to https://github.com/zecos/zecos
+
 ### @zecos/input-basic
 
 `@zecos/input-basic` is a library for quickly creating form fields for rapid prototyping.
